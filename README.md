@@ -1,6 +1,6 @@
 # Practica-daw-1.2
 
-Este es una continuación de la practica 1.1, para opener toda la información te recomido que le eches primero un vistazo a la [documentación de este](../Practica-daw-1.1/README.md)
+Este es una continuación de la practica 1.1, para opener toda la información te recomido que le eches primero un vistazo a la [documentación de este](https://github.com/ArturoCarrilloJimenez/Practica-daw-1.1)
 
 ## Despliega de una aplicación sencilla
 
